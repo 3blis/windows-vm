@@ -19,3 +19,5 @@ Create a free VPS with 2cpu-7gb Ram FREE with Github:
 
 *IF MY REPO GOT DELETED,ON YOUR GITHUB GO TO .github/workflows > main.yml AND EDIT NEW LINK TO YOUR REPO. ALL .BAT in Files FOLDER* 
 * PLEASE DON'T MINING CRYPTO AGAIN *
+
+ ![visitors](https://visitor-badge.glitch.me/badge?page_id=docefio.Windows2019RDP-Github)
